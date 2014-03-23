@@ -24,20 +24,20 @@ GameMechanics
 # 5.6
 
 * ‰‰K1
-	* pic ![chap5_1](chap5_1.png)
 	* [chap5_1](chap5_1.xml)
-
+	* pic5-1 ![chap5_1](chap5_1.png)
+	
 * ‰‰K2
 	* [chap5_2](5_2.xml)
-	* ![chap5_2](5_2.png)
+	* pic5-2 ![chap5_2](5_2.png)
 
 
 * ‰‰K3
 	* [chap5_3](5_3.xml)
-	* ![chap5_3](5_3.png)
+	* pic5-3 ![chap5_3](5_3.png)
 	
 
 * ‰‰K4
 	* [chap5_4](5_4.xml)
-	* ![chap5_4](5_4.png)
+	* pic5-4 ![chap5_4](5_4.png)
 
