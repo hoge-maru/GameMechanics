@@ -26,4 +26,4 @@ GameMechanics
 * ‰‰K1
 
 ![chap5_1](chap5_1.svg)
-
+![chap5_1](chap5_1.png)
