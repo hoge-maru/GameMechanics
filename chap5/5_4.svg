@@ -1,0 +1,452 @@
+<svg width="12.00cm" height="11.20cm" viewBox="0 0 600 564" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  undefined
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 21.37 172.42 L 58.63 172.42 L 40.00 141.37 L 21.37 172.42" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <path d="M 28.82 168.45 L 51.18 168.45 L 40.00 149.82 L 28.82 168.45" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <circle cx="129.44" cy="160.00" r="20.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <circle cx="160.00" cy="57.17" r="20.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <rect x="242.85" y="42.15" width="18.00" height="18.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <rect x="246.85" y="46.15" width="10.00" height="10.00" stroke="#000000" stroke-width="1.4" fill="#000000"/>
+    <path d="M 64.00 160.00 L 105.44 160.00 M 100.44 165.00 L 105.44 160.00 L 100.44 155.00" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <path d="M 39.57 52.42 L 76.83 52.42 L 58.20 21.37 L 39.57 52.42" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <g>
+      <text x="72.20" y="40.00" style="font-size:27px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">*</text>
+    </g>
+    <path d="M 124.36 136.54 L 123.93 134.59 M 122.45 127.75 L 122.03 125.79 M 120.55 118.95 L 120.12 117.00 M 118.64 110.16 L 118.22 108.20 M 116.74 101.36 L 116.31 99.41 M 114.83 92.56 L 114.41 90.61 M 112.92 83.77 L 112.50 81.81 M 111.02 74.97 L 110.59 73.02 M 109.11 66.18 L 108.69 64.22 M 108.09 61.45 M 114.03 65.27 L 108.09 61.45 L 104.26 67.39" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <g>
+      <text x="126.00" y="101.38" style="font-size:14px;font-style:normal;font-weight:normal;text-align:left;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">+1</text>
+    </g>
+    <g>
+      <text x="126.00" y="101.38" style="font-size:14px;font-style:normal;font-weight:normal;text-align:left;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">+1</text>
+    </g>
+    <path d="M 183.95 55.60 L 185.94 55.47 M 192.93 55.01 L 194.93 54.88 M 201.91 54.42 L 203.91 54.29 M 210.89 53.83 L 212.89 53.70 M 219.87 53.24 L 221.87 53.11 M 228.85 52.66 L 230.85 52.52 M 237.83 52.07 L 238.85 52.00 M 234.19 57.32 L 238.85 52.00 L 233.53 47.34" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <g>
+      <text x="212.05" y="68.28" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">&gt;10</text>
+    </g>
+    <g>
+      <text x="212.05" y="68.28" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">&gt;10</text>
+    </g>
+    <rect x="551.00" y="111.00" width="18.00" height="18.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <rect x="555.00" y="115.00" width="10.00" height="10.00" stroke="#000000" stroke-width="1.4" fill="#000000"/>
+    <path d="M 501.48 112.18 L 503.46 112.44 M 510.40 113.37 L 512.38 113.64 M 519.32 114.56 L 521.31 114.83 M 528.24 115.76 L 530.23 116.02 M 537.16 116.95 L 539.15 117.21 M 546.09 118.14 L 547.00 118.26 M 541.38 122.56 L 547.00 118.26 L 542.71 112.64" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <g>
+      <text x="522.92" y="129.63" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">&gt;10</text>
+    </g>
+    <g>
+      <text x="522.92" y="129.63" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">&gt;10</text>
+    </g>
+    <circle cx="320.00" cy="120.00" r="20.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <g>
+      <circle cx="308.00" cy="118.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="308.00" cy="118.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="308.00" cy="118.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="308.00" cy="114.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="308.00" cy="114.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="308.00" cy="114.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="308.00" cy="110.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="308.00" cy="110.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="308.00" cy="110.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="308.00" cy="106.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="308.00" cy="106.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="308.00" cy="106.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="308.00" cy="102.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="308.00" cy="102.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="308.00" cy="102.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="320.00" cy="118.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="320.00" cy="118.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="320.00" cy="118.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="320.00" cy="114.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="320.00" cy="114.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="320.00" cy="114.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="320.00" cy="110.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="320.00" cy="110.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="320.00" cy="110.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="320.00" cy="106.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="320.00" cy="106.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="320.00" cy="106.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="320.00" cy="102.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="320.00" cy="102.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="320.00" cy="102.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="332.00" cy="118.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="332.00" cy="118.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="332.00" cy="118.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="332.00" cy="114.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="332.00" cy="114.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="332.00" cy="114.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <path d="M 344.00 120.00 L 376.42 120.00 M 371.42 125.00 L 376.42 120.00 L 371.42 115.00" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <path d="M 424.18 116.62 L 453.93 112.38 M 449.69 118.04 L 453.93 112.38 L 448.28 108.14" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <g>
+      <text x="440.47" y="128.90" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">3</text>
+    </g>
+    <g>
+      <text x="440.47" y="128.90" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">3</text>
+    </g>
+    <circle cx="477.69" cy="109.00" r="20.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <path d="M 388.00 138.63 L 388.00 101.37 L 419.05 120.00 L 388.00 138.63 M 400.42 101.37 L 400.42 138.63" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <path d="M 392.97 131.18 L 392.97 108.82 L 411.60 120.00 L 392.97 131.18 M 400.42 108.82 L 400.42 131.18" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <path d="M 14.37 353.42 L 51.63 353.42 L 33.00 322.37 L 14.37 353.42" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <path d="M 21.82 349.45 L 44.18 349.45 L 33.00 330.82 L 21.82 349.45" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <circle cx="153.00" cy="238.00" r="20.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <rect x="236.00" y="223.00" width="18.00" height="18.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <rect x="240.00" y="227.00" width="10.00" height="10.00" stroke="#000000" stroke-width="1.4" fill="#000000"/>
+    <path d="M 57.00 341.00 L 98.00 341.00 M 93.00 346.00 L 98.00 341.00 L 93.00 336.00" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <path d="M 117.00 317.53 L 116.58 315.57 M 115.13 308.72 L 114.71 306.77 M 113.25 299.92 L 112.84 297.97 M 111.38 291.12 L 110.96 289.16 M 109.50 282.32 L 109.09 280.36 M 107.63 273.51 L 107.21 271.56 M 105.75 264.71 L 105.34 262.75 M 103.88 255.91 L 103.46 253.95 M 102.62 250.01 M 108.56 253.86 L 102.62 250.01 L 98.78 255.95" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <g>
+      <text x="119.59" y="286.19" style="font-size:14px;font-style:normal;font-weight:normal;text-align:left;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">+1</text>
+    </g>
+    <g>
+      <text x="119.59" y="286.19" style="font-size:14px;font-style:normal;font-weight:normal;text-align:left;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">+1</text>
+    </g>
+    <path d="M 176.95 236.44 L 178.94 236.31 M 185.93 235.85 L 187.93 235.72 M 194.91 235.27 L 196.91 235.14 M 203.89 234.68 L 205.89 234.55 M 212.87 234.10 L 214.87 233.97 M 221.85 233.51 L 223.85 233.38 M 230.83 232.92 L 232.00 232.85 M 227.34 238.16 L 232.00 232.85 L 226.69 228.18" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <g>
+      <text x="205.13" y="249.12" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">&gt;10</text>
+    </g>
+    <g>
+      <text x="205.13" y="249.12" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">&gt;10</text>
+    </g>
+    <circle cx="122.00" cy="341.00" r="20.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <path d="M 74.67 224.95 L 129.33 234.05 M 123.57 238.16 L 129.33 234.05 L 125.22 228.30" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <g>
+      <text x="100.36" y="243.86" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">0</text>
+    </g>
+    <g>
+      <text x="100.36" y="243.86" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">0</text>
+    </g>
+    <path d="M 32.37 233.42 L 69.63 233.42 L 51.00 202.37 L 32.37 233.42" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <path d="M 39.82 229.45 L 62.18 229.45 L 51.00 210.82 L 39.82 229.45" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <circle cx="149.00" cy="427.00" r="20.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <rect x="232.00" y="412.00" width="18.00" height="18.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <rect x="236.00" y="416.00" width="10.00" height="10.00" stroke="#000000" stroke-width="1.4" fill="#000000"/>
+    <path d="M 53.00 530.00 L 94.00 530.00 M 89.00 535.00 L 94.00 530.00 L 89.00 525.00" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <path d="M 115.88 506.09 L 115.70 504.10 M 115.08 497.13 L 114.91 495.14 M 114.29 488.16 L 114.11 486.17 M 113.49 479.20 L 113.32 477.21 M 112.70 470.23 L 112.52 468.24 M 111.90 461.27 L 111.73 459.28 M 111.11 452.31 L 110.93 450.31 M 110.56 446.14 M 115.98 450.68 L 110.56 446.14 L 106.02 451.56" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <g>
+      <text x="123.18" y="479.73" style="font-size:14px;font-style:normal;font-weight:normal;text-align:left;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">+1</text>
+    </g>
+    <g>
+      <text x="123.18" y="479.73" style="font-size:14px;font-style:normal;font-weight:normal;text-align:left;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">+1</text>
+    </g>
+    <path d="M 172.95 425.44 L 174.94 425.31 M 181.93 424.85 L 183.93 424.72 M 190.91 424.27 L 192.91 424.14 M 199.89 423.68 L 201.89 423.55 M 208.87 423.10 L 210.87 422.97 M 217.85 422.51 L 219.85 422.38 M 226.83 421.92 L 228.00 421.85 M 223.34 427.16 L 228.00 421.85 L 222.69 417.18" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <g>
+      <text x="201.13" y="438.12" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">&gt;10</text>
+    </g>
+    <g>
+      <text x="201.13" y="438.12" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">&gt;10</text>
+    </g>
+    <circle cx="118.00" cy="530.00" r="20.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <path d="M 52.37 436.42 L 89.63 436.42 L 71.00 405.37 L 52.37 436.42" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <path d="M 59.82 432.45 L 82.18 432.45 L 71.00 413.82 L 59.82 432.45" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <path d="M 94.98 424.92 L 125.02 426.08 M 119.83 430.88 L 125.02 426.08 L 120.21 420.89" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <g>
+      <text x="109.62" y="439.99" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">1</text>
+    </g>
+    <g>
+      <text x="109.62" y="439.99" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">1</text>
+    </g>
+    <path d="M 132.87 409.23 L 131.52 407.75 M 126.82 402.57 L 125.47 401.09 M 120.77 395.91 L 119.42 394.43 M 114.72 389.24 L 113.37 387.76 M 108.66 382.58 L 108.37 382.25 L 106.81 382.27 M 99.81 382.36 L 97.81 382.39 M 90.81 382.47 L 88.81 382.50 M 81.81 382.59 L 79.81 382.61 M 72.81 382.70 L 70.81 382.72 M 63.81 382.81 L 61.81 382.84 M 54.81 382.92 L 52.81 382.95 M 45.81 383.04 L 43.81 383.06 M 36.81 383.15 L 34.81 383.17 M 28.10 383.26 M 28.10 383.54 L 28.11 385.54 M 28.16 392.54 L 28.17 394.54 M 28.21 401.54 L 28.22 403.54 M 28.27 410.54 L 28.28 412.54 M 28.32 419.54 L 28.34 421.54 M 28.38 428.54 L 28.39 430.54 M 28.43 437.54 L 28.45 439.54 M 28.49 446.54 L 28.50 448.54 M 28.54 455.54 L 28.56 457.54 M 28.60 464.54 L 28.61 466.54 M 28.65 473.54 L 28.67 475.54 M 28.71 482.54 L 28.72 484.54 M 28.76 491.54 L 28.78 493.54 M 28.82 500.54 L 28.83 502.54 M 28.85 506.00 M 23.82 501.03 L 28.85 506.00 L 33.82 500.97" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <g>
+      <text x="18.12" y="390.83" style="font-size:14px;font-style:normal;font-weight:normal;text-align:right;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">&gt;2</text>
+    </g>
+    <g>
+      <text x="18.12" y="390.83" style="font-size:14px;font-style:normal;font-weight:normal;text-align:right;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">&gt;2</text>
+    </g>
+    <path d="M 10.37 542.42 L 47.63 542.42 L 29.00 511.37 L 10.37 542.42" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <g>
+      <text x="43.00" y="530.00" style="font-size:27px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">*</text>
+    </g>
+    <path d="M 81.87 43.99 L 136.33 53.18 M 130.57 57.28 L 136.33 53.18 L 132.24 47.42" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <g>
+      <text x="107.44" y="62.95" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">0</text>
+    </g>
+    <g>
+      <text x="107.44" y="62.95" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">0</text>
+    </g>
+    <rect x="556.00" y="230.00" width="18.00" height="18.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <rect x="560.00" y="234.00" width="10.00" height="10.00" stroke="#000000" stroke-width="1.4" fill="#000000"/>
+    <path d="M 506.79 231.19 L 508.77 231.46 M 515.71 232.39 L 517.69 232.65 M 524.63 233.58 L 526.61 233.85 M 533.55 234.78 L 535.53 235.05 M 542.47 235.98 L 544.45 236.24 M 551.39 237.17 L 552.00 237.26 M 546.38 241.55 L 552.00 237.26 L 547.71 231.64" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <g>
+      <text x="528.06" y="248.63" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">&gt;10</text>
+    </g>
+    <g>
+      <text x="528.06" y="248.63" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">&gt;10</text>
+    </g>
+    <circle cx="325.00" cy="239.00" r="20.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <g>
+      <circle cx="313.00" cy="237.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="313.00" cy="237.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="313.00" cy="237.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="313.00" cy="233.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="313.00" cy="233.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="313.00" cy="233.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="313.00" cy="229.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="313.00" cy="229.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="313.00" cy="229.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="313.00" cy="225.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="313.00" cy="225.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="313.00" cy="225.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="313.00" cy="221.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="313.00" cy="221.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="313.00" cy="221.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="325.00" cy="237.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="325.00" cy="237.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="325.00" cy="237.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="325.00" cy="233.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="325.00" cy="233.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="325.00" cy="233.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="325.00" cy="229.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="325.00" cy="229.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="325.00" cy="229.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="325.00" cy="225.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="325.00" cy="225.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="325.00" cy="225.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="325.00" cy="221.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="325.00" cy="221.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="325.00" cy="221.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="337.00" cy="237.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="337.00" cy="237.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="337.00" cy="237.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="337.00" cy="233.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="337.00" cy="233.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="337.00" cy="233.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <path d="M 349.00 239.00 L 381.00 239.00 M 376.00 244.00 L 381.00 239.00 L 376.00 234.00" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <path d="M 392.58 257.63 L 392.58 220.37 L 423.63 239.00 L 392.58 257.63 M 405.00 220.37 L 405.00 257.63" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <path d="M 397.55 250.18 L 397.55 227.82 L 416.18 239.00 L 397.55 250.18 M 405.00 227.82 L 405.00 250.18" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <circle cx="483.00" cy="228.00" r="20.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <path d="M 517.17 307.58 L 554.43 307.58 L 535.80 338.63 L 517.17 307.58" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <path d="M 524.62 311.55 L 546.98 311.55 L 535.80 330.18 L 524.62 311.55" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <circle cx="449.64" cy="328.99" r="20.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <g>
+      <circle cx="437.60" cy="326.95" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="437.60" cy="326.95" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="437.60" cy="326.95" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="437.60" cy="322.95" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="437.60" cy="322.95" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="437.60" cy="322.95" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="437.60" cy="318.95" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="437.60" cy="318.95" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="437.60" cy="318.95" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="437.60" cy="314.95" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="437.60" cy="314.95" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="437.60" cy="314.95" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <path d="M 473.51 326.50 L 511.93 322.49 M 507.47 327.98 L 511.93 322.49 L 506.43 318.04" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <path d="M 448.45 305.02 L 448.35 303.02 M 448.01 296.03 L 447.91 294.03 M 447.56 287.04 L 447.46 285.04 M 447.11 278.05 L 447.02 276.05 M 446.67 269.06 L 446.57 267.06 M 446.22 260.07 L 446.12 258.07 M 445.92 254.05 M 451.17 258.80 L 445.92 254.05 L 441.18 259.29" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <g>
+      <text x="457.18" y="283.54" style="font-size:14px;font-style:normal;font-weight:normal;text-align:left;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">+1</text>
+    </g>
+    <g>
+      <text x="457.18" y="283.54" style="font-size:14px;font-style:normal;font-weight:normal;text-align:left;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">+1</text>
+    </g>
+    <path d="M 428.76 235.65 L 459.24 231.35 M 454.98 237.00 L 459.24 231.35 L 453.59 227.10" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <g>
+      <text x="445.40" y="247.90" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">2</text>
+    </g>
+    <g>
+      <text x="445.40" y="247.90" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">2</text>
+    </g>
+    <rect x="567.00" y="401.00" width="18.00" height="18.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <rect x="571.00" y="405.00" width="10.00" height="10.00" stroke="#000000" stroke-width="1.4" fill="#000000"/>
+    <path d="M 517.79 402.19 L 519.77 402.46 M 526.71 403.39 L 528.69 403.65 M 535.63 404.58 L 537.61 404.85 M 544.55 405.78 L 546.53 406.05 M 553.47 406.98 L 555.45 407.24 M 562.39 408.17 L 563.00 408.26 M 557.38 412.55 L 563.00 408.26 L 558.71 402.64" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <g>
+      <text x="539.06" y="419.63" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">&gt;10</text>
+    </g>
+    <g>
+      <text x="539.06" y="419.63" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">&gt;10</text>
+    </g>
+    <circle cx="336.00" cy="410.00" r="20.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <g>
+      <circle cx="324.00" cy="408.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="324.00" cy="408.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="324.00" cy="408.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="324.00" cy="404.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="324.00" cy="404.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="324.00" cy="404.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="324.00" cy="400.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="324.00" cy="400.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="324.00" cy="400.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="324.00" cy="396.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="324.00" cy="396.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="324.00" cy="396.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="324.00" cy="392.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="324.00" cy="392.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="324.00" cy="392.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="336.00" cy="408.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="336.00" cy="408.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="336.00" cy="408.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="336.00" cy="404.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="336.00" cy="404.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="336.00" cy="404.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="336.00" cy="400.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="336.00" cy="400.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="336.00" cy="400.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="336.00" cy="396.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="336.00" cy="396.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="336.00" cy="396.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="336.00" cy="392.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="336.00" cy="392.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="336.00" cy="392.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="348.00" cy="408.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="348.00" cy="408.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="348.00" cy="408.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <g>
+      <circle cx="348.00" cy="404.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="348.00" cy="404.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="348.00" cy="404.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+    <path d="M 360.00 410.00 L 392.00 410.00 M 387.00 415.00 L 392.00 410.00 L 387.00 405.00" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <path d="M 403.58 428.63 L 403.58 391.37 L 434.63 410.00 L 403.58 428.63 M 416.00 391.37 L 416.00 428.63" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <path d="M 408.55 421.18 L 408.55 398.82 L 427.18 410.00 L 408.55 421.18 M 416.00 398.82 L 416.00 421.18" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <path d="M 528.37 478.58 L 565.63 478.58 L 547.00 509.63 L 528.37 478.58" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <path d="M 535.82 482.55 L 558.18 482.55 L 547.00 501.18 L 535.82 482.55" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <path d="M 484.87 497.50 L 523.13 493.50 M 518.68 498.99 L 523.13 493.50 L 517.64 489.05" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <path d="M 439.76 406.65 L 470.24 402.35 M 465.98 408.00 L 470.24 402.35 L 464.59 398.10" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <g>
+      <text x="456.40" y="418.90" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">2</text>
+    </g>
+    <g>
+      <text x="456.40" y="418.90" style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">2</text>
+    </g>
+    <circle cx="494.00" cy="399.00" r="20.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <path d="M 459.71 476.03 L 459.60 474.04 M 459.23 467.05 L 459.12 465.05 M 458.74 458.06 L 458.64 456.06 M 458.26 449.07 L 458.15 447.08 M 457.78 440.09 L 457.67 438.09 M 457.29 431.10 L 457.19 429.10 M 456.97 425.05 M 462.23 429.78 L 456.97 425.05 L 452.24 430.31" stroke="#000000" stroke-width="1.4" fill="none"/>
+    <g>
+      <text x="468.33" y="454.51" style="font-size:14px;font-style:normal;font-weight:normal;text-align:left;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">-2</text>
+    </g>
+    <g>
+      <text x="468.33" y="454.51" style="font-size:14px;font-style:normal;font-weight:normal;text-align:left;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">-2</text>
+    </g>
+    <circle cx="461.00" cy="500.00" r="20.00" stroke="#000000" stroke-width="1.4" fill="#ffffff"/>
+    <g>
+      <circle cx="449.00" cy="498.00" r="6.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+      <circle cx="449.00" cy="498.00" r="4.00" stroke="none" stroke-width="0.0" fill="#808080"/>
+      <circle cx="449.00" cy="498.00" r="3.00" stroke="none" stroke-width="0.0" fill="#000000"/>
+    </g>
+  </g>
+</svg>
